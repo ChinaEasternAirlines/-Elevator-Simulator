@@ -15,9 +15,9 @@ waiting_time = 0#初始化等待时间（总）
 
 #函数/模块定义区
 def update_info():#当前版本更新信息
-    print('Beta2.0.2更新说明(Oct 26th 2023)')
+    print('更新说明(Oct 26th 2023)')
     print('修复了同楼层的判断问题')
-    print('优化了内存占用')
+    #print('优化了内存占用')
     print('优化了内部结构')
 def update_info_history():#版本更新历史信息
     print('Beta2.0.1更新说明(Oct 24th 2023)')
