@@ -14,3 +14,11 @@
 使用Python中的random库来生成(伪)随机数作为楼层与人数,并使用time库让程序等待一定的时间
 (是不是很简陋)
 
+## Introductionℹ️
+This program has limited functionality,currently.It just simply simulates the elevator randomly traveling between floors and generate the number of people entering and exiting at each floor.
+
+## How to use🧐
+Simply run the code.
+
+## How it made it🤔
+It uses Python's `random` library to generate (pseudo-)random numbers for floors and passenger counts, and the `time` library to introduce delays when the elevator traveling between floors.
