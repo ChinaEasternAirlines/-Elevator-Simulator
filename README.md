@@ -1,4 +1,4 @@
-# 电梯模拟器 -Elevator-Simulator
+# 电梯模拟器
 
 ## 写在前面😼
 开始是刚学习编程时随便写的小代码(其实现在也还是).
@@ -13,6 +13,8 @@
 ## 用了什么🤔
 使用Python中的random库来生成(伪)随机数作为楼层与人数,并使用time库让程序等待一定的时间
 (是不是很简陋)
+
+# -Elevator-Simulator
 
 ## Introductionℹ️
 This program has limited functionality,currently.It just simply simulates the elevator randomly traveling between floors and generate the number of people entering and exiting at each floor.
